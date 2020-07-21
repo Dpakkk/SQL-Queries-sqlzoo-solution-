@@ -1,5 +1,5 @@
 # This repository contains the solution done form sqlzoo website.
-WEBSITE : https://sqlzoo.net 
+YOU CAN PRACTICE ON YOUR OWN HERE (WEBSITE) : https://sqlzoo.net 
 ### I've challenged myself to learn and write all query for solving this challenge.
 ### Learning interactively from differnt online source is pushing my skills day by day.
 Writing query are always fun
